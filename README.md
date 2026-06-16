@@ -1,4 +1,4 @@
-# Batch Rename UV Maps v0.0.1
+# Batch Rename UV Maps
 
 First of all I've no idea about coding at all. This is completely vibe-coded using Google Gemini.
 A lightweight, powerful workflow tool for Blender (5.1+) designed to handle bulk UV map renaming. Perfect for game engine pipelines (Unreal, Unity) where consistent naming is mandatory.
