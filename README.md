@@ -14,7 +14,7 @@ A lightweight, powerful workflow tool for Blender (5.1+) designed to handle bulk
 ## Installation
 Since this is a modern Blender extension, it is installed through the built-in Extensions system:
 
-1. **Download:** Get the latest `batch_rename_uvs.zip` file from the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) page.
+1. **Download:** Get the latest `batch_rename_uvs.zip` version from the [Releases](https://github.com/pr-krayt/blender-batch-rename-uvs/releases/tag/v0.0.1) page.
 2. **Open Blender:** Navigate to **Edit > Preferences**.
 3. **Get Extensions:** Click the **Get Extensions** tab in the sidebar.
 4. **Install:** Click the **dropdown arrow** in the top-right corner of the window and select **Install from Disk...**
